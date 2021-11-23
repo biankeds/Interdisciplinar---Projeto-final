@@ -1,6 +1,6 @@
 # Interdisciplinar---Projeto-final
 
-Arquivo referente ao Trabalho de Interdisciplinar realizado pelos alunos do Grupo A em Desenvolvimento de Sistemas na Etec de Carapicuíba.
+Arquivo referente ao Trabalho Interdisciplinar realizado pelos alunos do Grupo A em Desenvolvimento de Sistemas na Etec de Carapicuíba.
 
 Realizado por:
 Ana Paula Fagundes Mateus,
