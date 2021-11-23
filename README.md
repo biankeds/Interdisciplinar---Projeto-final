@@ -7,4 +7,4 @@ Ana Paula Fagundes Mateus,
 Bianca Almeida da Silva (Líder),
 Felipe Lopes Reis,
 Guilherme Alves Direnzi e
-Guilherme de Brito Vieira
+Guilherme de Brito Vieira.
